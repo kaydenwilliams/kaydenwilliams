@@ -1,10 +1,10 @@
 👋 Hi, I’m @kaydenwilliams
 
 - **About Me:**
--👀 I’m interested in learning various aspects of computer science, especially software development and engineering principles, aiming to excel as a Full-Stack Software Developer/Software Engineer/Computer Programmer.
--🌱 I’m currently pursuing a Master's degree in Computer Science to establish a robust foundation and specialize in both Front-End and Back-End development, with additional interests in software architecture and exploring artificial intelligence applications.
--🌐 I’m looking to connect with like-minded individuals, collaborate on diverse projects, and gain hands-on experience that will equip me for my future career.
--📫 Feel free to reach out to me anytime; I'm readily available.
+- 👀 I’m interested in learning various aspects of computer science, especially software development and engineering principles, aiming to excel as a Full-Stack Software Developer/Software Engineer/Computer Programmer.
+- 🌱 I’m currently pursuing a Master's degree in Computer Science to establish a robust foundation and specialize in both Front-End and Back-End development, with additional interests in software architecture and exploring artificial intelligence applications.
+- 🌐 I’m looking to connect with like-minded individuals, collaborate on diverse projects, and gain hands-on experience that will equip me for my future career.
+- 📫 Feel free to reach out to me anytime; I'm readily available.
   
 - 🖥️ **Tech Stack:**
 
