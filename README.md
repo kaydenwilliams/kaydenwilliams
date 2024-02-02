@@ -8,23 +8,24 @@
   
 - 🖥️ Tech  Stack:
 - 📚 Currently Learning Front-End: HTML, CSS, JavaScript
--     Future Front-End Focuses:
--     JavaScript Libraries: React, Vue, Angular
--     CSS Frameworks: Bootstrap, Tailwind
+  
+- 🚀🌐 Future Front-End Focuses:
+-   JavaScript Libraries: React, Vue, Angular
+-   CSS Frameworks: Bootstrap, Tailwind
  
-- 🚀 Future Back-End Focus:
-- Python: Django
-- Java: Springboot
-- JavaScript/Node.js: Next.js
-- C#: .NET
-- Databases: MySQL, MongoDB
+- 🚀🔧 Future Back-End Focus:
+-   Python: Django
+-   Java: Springboot
+-   JavaScript/Node.js: Next.js
+-   C#: .NET
+-   Databases: MySQL, MongoDB
 
-- Tools:
-- UI/UX: GIT, VS Code, IntelliJ, Xcode
-- Cloud: AWS, Google Cloud, Microsoft Azure
+- 🛠️ Tools:
+-   UI/UX: GIT, VS Code, IntelliJ, Xcode
+-   Cloud: AWS, Google Cloud, Microsoft Azure
 
-- IOS Development:
-- Language: Swift or Objective-C
+- 📱 IOS Development:
+-   Language: Swift or Objective-C
 
 <!---
 kaydenwilliams/kaydenwilliams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
