@@ -6,7 +6,7 @@ Currently pursuing a Master's degree in Computer Science to establish a robust f
 ### 🖥️ Tech Stack:
 
 🌐 **Front-End Focus:** 
-  - HTML, CSS, JavaScript
+  - HTML, CSS
   - JavaScript/Node.js: Next.js
   - JavaScript Libraries: React, Vue, Angular
   - CSS Frameworks: Bootstrap, Tailwind
