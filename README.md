@@ -7,8 +7,8 @@ Currently pursuing a Master's degree in Computer Science to establish a robust f
 
 🌐 **Front-End Focus:** 
   - HTML, CSS, JavaScript
-  - JavaScript Libraries: React, Vue, Angular
   - JavaScript/Node.js: Next.js
+  - JavaScript Libraries: React, Vue, Angular
   - CSS Frameworks: Bootstrap, Tailwind
  
 🔧 **Back-End Focus:**
