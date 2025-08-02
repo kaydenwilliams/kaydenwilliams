@@ -1,6 +1,6 @@
 ### Hi, I’m @kaydenwilliams👋
 
-Currently pursuing a Master's degree in Computer Science to establish a robust foundation and specialize in both Front-End and Back-End development, with additional interests in software architecture and exploring artificial intelligence applications. Aiming to excel as a Full-Stack Software Developer/Engineer/Programmer.
+Aspiring software engineering intern with a strong foundation in computer science principles, problem-solving, and software development practices, complemented by hands-on experience in both front-end and back-end development through training and personal projects. Interested in software architecture and exploring real-world applications of artificial intelligence. 
 
   
 ### 🖥️ Tech Stack:
