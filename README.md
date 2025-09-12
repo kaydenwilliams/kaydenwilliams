@@ -1,28 +1,27 @@
 ### Hi, I’m @kaydenwilliams👋
 
-Aspiring software engineering intern with a strong foundation in computer science principles, problem-solving, and software development practices, complemented by hands-on experience in both front-end and back-end development through training and personal projects. Interested in software architecture and exploring real-world applications of artificial intelligence. 
-
+Aspiring Data Scientist, currently advancing studies in Data Analytics, Cybersecurity, and Artificial Intelligence, with plans to pursue a Master's in Business Administration. Possesses a strong foundation in Computer Science, data-driven problem solving, and full-stack development, with hands-on experience across front-end and back-end projects. Developing expertise in data visualization, machine learning, and cybersecurity practices.
   
 ### 🖥️ Tech Stack:
 
-🌐 **Front-End Focus:** 
-  - HTML, CSS
-  - JavaScript/Node.js: Next.js
-  - JavaScript Libraries: React, Vue, Angular
-  - CSS Frameworks: Bootstrap, Tailwind
- 
-🔧 **Back-End Focus:**
-  - Java: Springboot
-  - C/C++/C#: .NET
-  - Python: Django
-  - Databases: MySQL, MongoDB
+🌐 **Programming Languages & Frameworks**
+ - JavaScript/Node.js/TypeScript: Next.js
+ - Python: Django
+ - Java: Spring Boot
+ - C#: .NET
 
-🛠️ **Other Tools:**
-  - UI/UX: GIT, VS Code, IntelliJ, Xcode
-  - Cloud: AWS, Google Cloud, Microsoft Azure
+📊 **Databases & Data Visualization**
+ - Databases: SQL, MySQL, MongoDB
+ - Visualization: Tableau, Power BI
 
-📱 **IOS Development:**
-  - Language: Swift or Objective-C
+💻 **Web Development & Cloud Platforms**
+ - Frontend: HTML, CSS, Bootstrap, Tailwind
+ - Cloud: Google Cloud, Microsoft Azure
+
+🛠️ **Development Tools & Practices**
+ - IDEs: VS Code, IntelliJ IDEA, Eclipse
+ - Utilities: Excel, Notion
+ - Practices: Debugging, Unit Testing
 
 <!---
 kaydenwilliams/kaydenwilliams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
