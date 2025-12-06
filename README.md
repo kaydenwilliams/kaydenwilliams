@@ -1,27 +1,31 @@
 ### Hi, I’m @kaydenwilliams👋
 
-Aspiring Data Scientist, currently advancing studies in Data Analytics, Cybersecurity, and Artificial Intelligence, with plans to pursue a Master's in Business Administration. Possesses a strong foundation in Computer Science, data-driven problem solving, and full-stack development, with hands-on experience across front-end and back-end projects. Developing expertise in data visualization, machine learning, and cybersecurity practices.
+Versatile developer with a strong foundation in Computer Science and hands-on experience building real-world projects. Currently expanding my skills in data analytics, cybersecurity, and AI, with plans to pursue an MBA. I’m passionate about solving problems, learning new technologies, and creating high-quality products that make an impact.
   
 ### 🖥️ Tech Stack:
 
 🌐 **Programming Languages & Frameworks**
- - JavaScript/Node.js/TypeScript: Next.js
+ - JavaScript/Node.js/TypeScript: Next.js, React Native
  - Python: Django
  - Java: Spring Boot
  - C#: .NET
 
+🔗 **API & Backend Integration**
+ - Rest APIs, Axios, CRUD Operations
+
 📊 **Databases & Data Visualization**
- - Databases: SQL, MySQL, MongoDB
- - Visualization: Tableau, Power BI
+ - Databases: SQL, MySQL, SQLite, MongoDB
+ - Data Analysis & Manipulation: Pandas, NumPy
+ - Visualization: Tableau, Power BI, Chart.js
 
 💻 **Web Development & Cloud Platforms**
  - Frontend: HTML, CSS, Bootstrap, Tailwind
- - Cloud: Google Cloud, Microsoft Azure
+ - Cloud: Google Cloud, Microsoft Azure, AWS, Vercel, Netlify
 
 🛠️ **Development Tools & Practices**
- - IDEs: VS Code, IntelliJ IDEA, Eclipse
+ - IDEs: VS Code, IntelliJ IDEA, PyCharm, Eclipse
  - Utilities: Excel, Notion
- - Practices: Debugging, Unit Testing
+ - Practices: AI-Assisted Development, Debugging, Unit Testing
 
 <!---
 kaydenwilliams/kaydenwilliams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
