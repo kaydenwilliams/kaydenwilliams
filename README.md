@@ -1,7 +1,7 @@
 ### Hi, I’m @kaydenwilliams👋
 
 Versatile developer with a strong foundation in Computer Science and hands-on experience building real-world projects.  
-I’m currently expanding my skills in **data analytics**, **cybersecurity**, and **AI**..
+I’m currently expanding my skills in **data analytics**, **cybersecurity**, and **AI**.
 
 I’m passionate about solving problems, learning new technologies, and creating high-quality products that make an impact.
 
