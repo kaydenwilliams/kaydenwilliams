@@ -30,7 +30,7 @@ I’m passionate about solving problems, learning new technologies, and creating
 - SQL, MySQL, SQLite, MongoDB  
 
 ### 📈 Data Analysis & Manipulation
-- Pandas, NumPy  
+- R, Pandas, NumPy  
 
 ### 📊 Visualization Tools
 - Tableau, Power BI, Chart.js  
