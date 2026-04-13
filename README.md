@@ -1,7 +1,6 @@
 # Hi there 👋
 
-I'm a data analytics and applied AI graduate with a background in applied AI and a certificate in cybersecurity,
-focused on turning raw data into decisions that actually matter.
+Data Analytics and Applied AI with strong knowledge in Cybersecurity and programming. Skilled in analyzing data, building models, and developing efficient, secure solutions. Focused on turning data into actionable insights and applying AI to solve real-world problems.
 
 Currently open to opportunities in data analytics/science, business intelligence, cybersecurity, and applied AI.
 
