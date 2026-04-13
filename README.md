@@ -12,7 +12,7 @@ Currently open to opportunities in data analytics/science, business intelligence
 - Analyze complex datasets to surface insights and drive informed decisions
 - Build dashboards and visualizations that make findings clear and actionable
 - Apply machine learning and statistical techniques to real-world problems
-- Handle data with a security-conscious mindset — privacy and integrity matter
+- Handle data with a security-conscious mindset
 
 ---
 
