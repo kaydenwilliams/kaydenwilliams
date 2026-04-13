@@ -1,67 +1,37 @@
-### Hi, I’m @kaydenwilliams👋
+# Hi there 👋
 
-Versatile developer with a strong foundation in Computer Science and hands-on experience building real-world projects.  
-I’m currently expanding my skills in **data analytics**, **cybersecurity**, and **AI**.
+I'm a data analytics and applied AI graduate with a background in applied AI and a certificate in cybersecurity,
+focused on turning raw data into decisions that actually matter.
 
-I’m passionate about solving problems, learning new technologies, and creating high-quality products that make an impact.
-
----
-
-## 🖥️ Tech Stack
-
-### 🌐 Programming Languages & Frameworks
-- **JavaScript / TypeScript / Node.js** – Next.js, React Native  
-- **Python** – Django  
-- **Java** – Spring Boot  
-- **C#** – .NET  
+Currently open to opportunities in data analytics/science, business intelligence, cybersecurity, and applied AI.
 
 ---
 
-## 🔗 API & Backend Integration
-- REST APIs  
-- Axios  
-- CRUD Operations  
+## 🔍 What I Do
+
+- Analyze complex datasets to surface insights and drive informed decisions
+- Build dashboards and visualizations that make findings clear and actionable
+- Apply machine learning and statistical techniques to real-world problems
+- Handle data with a security-conscious mindset — privacy and integrity matter
 
 ---
 
-## 📊 Databases & Data Visualization
+## 🛠️ Skills & Tools
 
-### 🗄️ Databases
-- SQL, MySQL, SQLite, MongoDB  
+**Languages:** Python (NumPy, Pandas, Django) · SQL · R · Java · JavaScript · C
 
-### 📈 Data Analysis & Manipulation
-- R, Pandas, NumPy  
+**Visualization:** Tableau · Power BI · Excel
 
-### 📊 Visualization Tools
-- Tableau, Power BI, Chart.js  
+**Databases:** MongoDB · SQL-based systems
 
----
+**Techniques:** Exploratory Data Analysis · Statistical Analysis · Data Modeling
+Data Cleaning · Anomaly Detection · Dashboard Development
+Data Storytelling · A/B Testing concepts · Hypothesis Testing
 
-## 💻 Web Development & Cloud Platforms
-
-### 🌐 Frontend
-- HTML, CSS, Bootstrap, Tailwind  
-
-### ☁️ Cloud & Deployment
-- Google Cloud  
-- Microsoft Azure  
-- AWS  
-- Vercel  
-- Netlify  
+**Other:** Cybersecurity fundamentals · Jupyter Notebooks · Git/GitHub · REST APIs
 
 ---
 
-## 🛠️ Development Tools & Practices
-- **IDEs:** VS Code, IntelliJ IDEA, PyCharm, Eclipse  
-- **Utilities:** Excel, Notion  
-- **Practices:** AI-Assisted Development, Debugging, Unit Testing  
+## 📫 Let's Connect
 
----
-
-Thanks for visiting my profile!  
-Feel free to explore my projects or connect with me.
-
-<!---
-kaydenwilliams/kaydenwilliams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💼 LinkedIn: https://www.linkedin.com/in/kayden-williams-k10/
