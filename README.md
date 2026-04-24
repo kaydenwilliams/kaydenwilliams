@@ -1,33 +1,29 @@
 # Hi there 👋
 
-Data Analytics and Applied AI with strong knowledge in Cybersecurity and programming. Skilled in analyzing data, building models, and developing efficient, secure solutions. Focused on turning data into actionable insights and applying AI to solve real-world problems.
+Data analyst with hands-on experience turning raw datasets into dashboards, models, and decisions. Comfortable working across the full analytics stack, from data wrangling in Python and SQL to publishing insights in Tableau and Power BI.
 
-Currently open to opportunities in data analytics/science, business intelligence, cybersecurity, and applied AI.
+Applied machine learning to projects, achieving insightful business decisions. Built reporting pipelines that reduced manual work. Approach every project with a security-conscious mindset, data integrity and access controls matter. Experienced with cybersecurity.
 
----
-
-## 🔍 What I Do
-
-- Analyze complex datasets to surface insights and drive informed decisions
-- Build dashboards and visualizations that make findings clear and actionable
-- Apply machine learning and statistical techniques to real-world problems
-- Handle data with a security-conscious mindset
+Open to data analyst, BI developer, and cybersecurity analyst roles.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🔍 What I Deliver
 
-**Languages:** Python (NumPy, Pandas, Django) · SQL · R · Java · JavaScript · C
+Dashboards and reporting - built dashboards in Tableau to track and demonstrate metrics 
+Predictive modeling — applied regression and classification techniques
+Data pipeline work — cleaned, joined, and modeled datasets of using Python and SQL
+Stakeholder communication — translated findings into clear narratives for non-technical audiences
 
-**Visualization:** Tableau · Power BI · Excel
+---
 
-**Databases:** MongoDB · SQL-based systems
+## 🛠️ Core Skills
 
-**Techniques:** Exploratory Data Analysis · Statistical Analysis · Data Modeling
-Data Cleaning · Anomaly Detection · Dashboard Development
-Data Storytelling · A/B Testing concepts · Hypothesis Testing
+**Primary:** Python (Pandas, NumPy), SQL, Tableau
 
-**Other:** Cybersecurity fundamentals · Jupyter Notebooks · Git/GitHub · REST APIs
+**Analysis:** Statistical analysis, EDA, Hypothesis testing Anomaly detection
+
+**Additional:** R, MongoDB, Git, REST APIs, Cybersecurity fundamentals
 
 ---
 
